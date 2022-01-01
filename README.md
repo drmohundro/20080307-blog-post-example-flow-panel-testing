@@ -1,2 +1,3 @@
-# example-flow-panel-testing
-Example repo from an old blog post
+# FlowPanelTesting
+
+[Example repo to go along with my blog post.](https://mohundro.com/blog/2006/03/08/more-on-the-flowlayoutpanel/)
